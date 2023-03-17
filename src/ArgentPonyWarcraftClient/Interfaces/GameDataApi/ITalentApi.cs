@@ -1,6 +1,4 @@
-﻿using static ArgentPonyWarcraftClient.WarcraftClient;
-
-namespace ArgentPonyWarcraftClient;
+﻿namespace ArgentPonyWarcraftClient;
 
 /// <summary>
 ///     A client for the World of Warcraft Talent API.
